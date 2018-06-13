@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SecureApp</string>
+    <string name="PasswordHint">Type your password</string>
+    <string name="EnterLable">Enter</string>
+    <string name="instructions">
+        Place your fingertip on the Home button to verify your identity
+    </string>
+    <string name="SaveButton">Change message</string>
+</resources>
